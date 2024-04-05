@@ -1,7 +1,7 @@
 # Calendar
 Minimal, Open Source, Portable Calendar with Notes and Email Alerts
 
-[Download Portable Folder with .EXE](https://github.com/56cc9a78-b78a-4a40-a695-fccf394ec0ad) You should unzip it somewhere simple like C:\.  All the included files are needed for the .EXE to run.
+[Download Portable Folder with .EXE](https://github.com/5aaa002d-8e7a-42e7-9514-c6019ef325a7) You should unzip it somewhere simple like C:\.  All the included files are needed for the .EXE to run.
 
 ![Calendar](https://github.com/escardel/Calendar/assets/39771493/ee3e6699-ac88-478b-ad29-a5ee1952c117)
 
