@@ -19,6 +19,7 @@ How to use:
    * Time ranges without spaces or colons such as 9am-330pm will auto-format to "9:00 AM - 3:30 PM" when pressing Enter.
 2. Add a Microsoft/Outlook/Hotmail account (used for To & From with SMTP) to enable email Alerts.
    * If there is an note present for the current date, the note will be emailed to you at 8am.
-   * Email password is stored locally as plaintext. Update the source code or use at your own risk.  
+   * Email password is stored locally as plaintext. Update the source code or use at your own risk.
+3. Use Task Scheduler in Windows to launch the program at startup if desired. 
 
 Use Visual Studio to open the project and tweak the program to your preferences.
