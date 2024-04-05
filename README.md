@@ -16,3 +16,5 @@ How to use:
 2. Add a Microsoft/Outlook/Hotmail account (used for To & From with SMTP) to enable email Alerts.
    * If there was an note entered for the current date, the note will be emailed to you at 8am.
    * Password is stored locally as plaintext. Update the source code or use at your own risk.  
+
+Use Visual Studio to open the project and tweak the program to your preferences.
